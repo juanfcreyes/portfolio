@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Portfolio",
+    "description": "Personal Portfolio Webpage"
+  },
+  "app": {
+    "title": "Welcome to my Web Portfolio"
+  },
+  "login": {
+    "title": "Access panel",
+    "form": {
+      "email": "Email",
+      "password": "Password",
+      "button": "Send"
+    },
+    "error": {
+      "usr_pass_invalid": "User or password invalid",
+      "invalid_form": "User or password empty"
+    }
+  },
+  "landing": {
+    "title": "Welcome to my Portfolio"
+  },
+  "loader": {
+    "text": "Loading..."
+  },
+  "dashboard": {
+    "error": "Search error"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "admin": "Admin"
+  },
+  "about": {
+    "labels": {
+      "name": "Name",
+      "birthday": "Birthday",
+      "nationality": "Nationality",
+      "Ocupation": "Ocupation",
+      "Organization": "Organization",
+      "Github": "Github"
+    }
+  },
+  "admin": {
+    "form": {
+      "title": "Title",
+      "description": "Description",
+      "link": "Link",
+      "tags": "Tags",
+      "version": "Version",
+      "buttons": {
+        "send": "Send",
+        "cancel": "Cancel"
+      }
+    }
+  }
+}

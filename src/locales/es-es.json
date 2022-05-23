@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Portfolio",
+    "description": "Personal Portfolio Webpage"
+  },
+  "app": {
+    "title": "Bienvenid@s a mi Web Portfolio"
+  },
+  "login": {
+    "title": "Panel de acceso",
+    "form": {
+      "email": "Correo",
+      "password": "Contraseña",
+      "button": "Enviar"
+    },
+    "error": {
+      "usr_pass_invalid": "Usuario o contraseña invalido",
+      "invalid_form": "Usuario o contraseña no pueden estar vacíos"
+    },
+    "loader" : "Validando..."
+  },
+  "landing": {
+    "title": "Bienvenido a mi Portfolio"
+  },
+  "loader": {
+    "text": "Cargando..."
+  },
+  "dashboard": {
+    "error": "Error en la búsqueda"
+  },
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Dashboard",
+    "admin": "Admin"
+  },
+  "about": {
+    "labels": {
+      "name": "Nombre",
+      "birthday": "Nacimiento",
+      "nationality": "Nacionalidad",
+      "ocupation": "Ocupación",
+      "organization": "Empresa",
+      "github": "Github"
+    }
+  },
+  "admin": {
+    "form": {
+      "title": "Titulos",
+      "description": "Descripción",
+      "link": "Link",
+      "tags": "Tags",
+      "version": "Versión",
+      "buttons": {
+        "send": "Enviar",
+        "cancel": "Cancelar"
+      }
+    }
+  }
+}
